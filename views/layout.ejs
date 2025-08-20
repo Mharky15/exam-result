@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cuyapo Exam Results Portal</title>
+    <!-- Tailwind CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+  </head>
+  <body
+    class="relative min-h-screen bg-gradient-to-br from-blue-500 to-yellow-400"
+    style="background: linear-gradient(135deg, #3b82f6, #facc15)"
+  >
+    <!-- Background image (50% opacity) -->
+    <div
+      class="pointer-events-none absolute inset-0 opacity-50 bg-cover bg-center"
+      style="background-image: url('/images/exam-students.jpg')"
+    ></div>
+
+    <!-- Optional extra gradient overlay for blend -->
+    <div
+      class="absolute inset-0 bg-gradient-to-br from-blue-500/60 to-yellow-400/60"
+    ></div>
+
+    <!-- Logo section -->
+    <div
+      class="relative w-full h-full p-4 pt-20 flex items-center justify-center gap-5"
+    >
+      <!-- Municipal Logo -->
+      <img
+        src="/images/cuyapo_logo.png"
+        alt="Municipal Logo"
+        class="h-40 w-auto"
+      />
+      <!-- Other Partner Logos -->
+      <img src="/images/bp.png" alt="Partner Logo 1" class="h-40 w-auto" />
+      <img
+        src="/images/BatangCuyapo.png"
+        alt="Partner Logo 2"
+        class="h-40 w-auto"
+      />
+    </div>
+    <div class="flex items-center justify-center min-h-50px">
+      <div
+        class="bg-white/90 backdrop-blur-sm rounded-2xl shadow-lg p-8 max-w-2xl text-center"
+      >
+        <!-- Your content here -->
+        <h1 class="text-2xl font-bold">Welcome to LCEAQERGS</h1>
+        <br />
+        <p>
+          LGU Cuyapo Educational Assistance Qualifying Examination<br />
+          Results Generation System (LCEAQERGS)
+          <br /><br />
+          Batang Cuyapo, Bayan Panalo
+        </p>
+      </div>
+    </div>
+    <!-- Page content -->
+    <div class="relative min-h-50px p-4 flex items-center justify-center">
+      <%- body %>
+    </div>
+  </body>
+</html>
