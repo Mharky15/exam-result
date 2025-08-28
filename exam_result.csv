@@ -40,7 +40,7 @@ LHARRY ,ESGUERRA,NONO,N/A,LOOB,Cuyapo National High School,69%,Qualified
  KURT ZYRUS,BONIFE,CALICA,N/A,BURGOS,Dr. Ramon De Santos National High School,69%,Qualified
  ANGELRY,VALDEZ,DUCA,N/A,SANTA CLARA,Dr. Ramon De Santos National High School,69%,Qualified
  REGINA FHAY,S,MANGABAT,N/A,SAN ANTONIO,Dr. Ramon De Santos National High School,69%,Qualified
- ELLA MARIE,ESTANDER,WALICAN,N/A,SABIT ,Dr. Ramon De Santos National High School,69%,Qualified
+ FRANCES CHELSEA,C,YOUNG,N/A,BURGOS,Dr. Ramon De Santos National High School,69%,Qualified
 MA. ELEAZER,TOLEDO,CARAAN,N/A,CALANCUASAN SUR,Cuyapo National High School,68%,Qualified
 MIKAELA,D.,SEBASTIAN ,N/A,DIST VI,Cuyapo National High School,68%,Qualified
  KIRK EVCAN , SERGIO,CORTEZ ,N/A,SAN ANTONIO,Dr. Ramon De Santos National High School,68%,Qualified
@@ -73,7 +73,6 @@ RAE SHAN HART,ULEP,PERALTA,N/A,PUGO,Cuyapo National High School,66%,Qualified
  CLARISSE ,B.,GARCIA,N/A,BONIFACIO,Dr. Ramon De Santos National High School,66%,Qualified
  RAYNER JOHN ,T,MANGLICMOT,N/A,BIBICLAT,Dr. Ramon De Santos National High School,66%,Qualified
 JESSICA,T,AGPOON,N/A,DISTRICT I,Cuyapo National High School,65%,Qualified
-PRINCESS,CACHUELA,ANTONIO,N/A,VILLAFLORES,Cuyapo National High School,65%,Qualified
 MICHAELLA GWYNETH,M,BARAQUIO,N/A,DISTRICT VI,Cuyapo National High School,65%,Qualified
 PRINCESS JAMAICAH,DISTOR,CARIAGA,N/A,PUGO,Cuyapo National High School,65%,Qualified
 LARYLLE MAE,CALIS,CRUZ,N/A,TUTULOY,Cuyapo National High School,65%,Qualified
@@ -94,6 +93,7 @@ LANCE CEDRIC,B.,NICOLAS,N/A,CALANCUASAN NORTE,Cuyapo National High School,65%,Qu
  ZYOHN SCHATZ,MAINIT,MUSNI,N/A,MATINDEG,Dr. Ramon De Santos National High School,65%,Qualified
  ANDREA,R.,MANGABAT,N/A,SAN ANTONIO,Dr. Ramon De Santos National High School,65%,Qualified
  RAFF JERMEL,T,SUMALBAG,N/A,BONIFACIO,Dr. Ramon De Santos National High School,65%,Qualified
+KATE AREN,DE GRACIA,AMBROCIO,N/A,BENTIGAN,Cuyapo National High School,65%,Qualified
 MARK TRISTAN,ANTONIO,DELA CRUZ,N/A,VILLAFLORES,Cuyapo National High School,64%,Qualified
 DESARE ASHLEY ,MANAGAOANG,DUMOL,N/A,CALANCUASAN SUR,Cuyapo National High School,64%,Qualified
 RENNEIR REN-REN,AGLIAM,MANUEL,N/A,PIGLISAN,Cuyapo National High School,64%,Qualified
@@ -112,8 +112,8 @@ EMMANUEL,AQUINO,DELA CRUZ,N/A,DISTRICT 8,Cuyapo National High School,64%,Qualifi
  KEISHA,COSTALES,DUMPIT ,N/A,BURGOS,Dr. Ramon De Santos National High School,64%,Qualified
  MARJORIE,ESCOBAR,DASALLA ,N/A,BALOY,Dr. Ramon De Santos National High School,64%,Qualified
  ROWENA MAE,G,ANTONIO,N/A,CABATUAN,Dr. Ramon De Santos National High School,64%,Qualified
- SHYRILLE,PASCUAL,YARES,N/A,SIMIMBAAN,Dr. Ramon De Santos National High School,64%,Qualified
  DENVER RHAY,AGUILANDO,SOLIVEN,N/A,SIMIMBAAN,Dr. Ramon De Santos National High School,64%,Qualified
+ CARYL MAE,ANTONIO,VITUG,N/A,SALAGUSOG,Dr. Ramon De Santos National High School,64%,Qualified
 MARIA JUNELLE,PANGANIBAN,AGNO,N/A,BANTUG,Cuyapo National High School,63%,Qualified
 ERNEST,,CARMONA,N/A,CURVA,Cuyapo National High School,63%,Qualified
 FERSHEBEL,ACABADO,DELA ROSA,N/A,DISTRICT VIII,Cuyapo National High School,63%,Qualified
@@ -129,7 +129,6 @@ BIEN MC HALE,C,DOMINGO,N/A,DISTRICT 7,Cuyapo National High School,63%,Qualified
  AVERIELLE,CARDON,DELOS REYES,N/A,STA. CLARA,Dr. Ramon De Santos National High School,63%,Qualified
  JULLIAN GRACE,AGUILA,HALOS,N/A,CACAPASAN,Dr. Ramon De Santos National High School,63%,Qualified
  LUIZ CHARLES,MANUEL,SAMONTE,N/A,BURGOS,Dr. Ramon De Santos National High School,63%,Qualified
- DIANA,DUMANTAY,ABAD,N/A,SALAGUSOG,Dr. Ramon De Santos National High School,63%,Qualified
  JOHN MARVIN,SADARAN,ALIADO,N/A,SAN ANTONIO,Dr. Ramon De Santos National High School,63%,Qualified
  MARIA ANDREA FRISCA,S,CABANTING,N/A,CABILEO,Dr. Ramon De Santos National High School,63%,Qualified
  PRINCESS DIANA,VILLACILLO,CAPA,N/A,BURGOS,Dr. Ramon De Santos National High School,63%,Qualified
@@ -138,6 +137,7 @@ BIEN MC HALE,C,DOMINGO,N/A,DISTRICT 7,Cuyapo National High School,63%,Qualified
  HARLENE,NACINO,DOÑA,N/A,BONIFACIO,Dr. Ramon De Santos National High School,63%,Qualified
  JEFFREY,RARO,PIMENTEL,N/A,DISTRICT IV,Dr. Ramon De Santos National High School,63%,Qualified
  LADY SUZETTE,DE GUZMAN,VERUECO,N/A,SIMIMBAAN,Dr. Ramon De Santos National High School,63%,Qualified
+ DIANA,DUMANTAY,ABAD,N/A,SALAGUSOG,Dr. Ramon De Santos National High School,62%,Qualified
 CHRISTINE JOY,D,BAGARRA,N/A,LUNA,Cuyapo National High School,62%,Qualified
 KYLE ANGHILLE,PARAS,CABRILLAS,N/A,LATAP,Cuyapo National High School,62%,Qualified
 BEA,MANGAOANG,CORPUZ,N/A,CALANCUASAN SUR,Cuyapo National High School,62%,Qualified
@@ -167,8 +167,9 @@ RAVEN MELBA ,FLORES,NIEGOS ,N/A,DIST. I,Cuyapo National High School,62%,Qualifie
  ELITA FELIZ,SACLAO,MARQUEZ,N/A,SAN ANTONIO,Dr. Ramon De Santos National High School,62%,Qualified
  ANTHONY GABRIELLE,PULIDO,MENDOZA,N/A,BURGOS,Dr. Ramon De Santos National High School,62%,Qualified
  CHELSIE,P.,VALDEZ,N/A,BONIFACIO,Dr. Ramon De Santos National High School,62%,Qualified
- JOHN MARK,BRIONES,SUYAO,N/A,BURGOS,Dr. Ramon De Santos National High School,62%,Qualified
  PLACIDO DACUYCUY I,DACUYCUY,TABON,I,SAN ANTONIO,Dr. Ramon De Santos National High School,62%,Qualified
+ PRECIOUS SAPPHIRE,DION,SUMALBAG,N/A,BONIFACIO,Dr. Ramon De Santos National High School,62%,Qualified
+ ARZEL KEITH,O,UDANI,N/A,SAN ANTONIO,Dr. Ramon De Santos National High School,62%,Qualified
 MARY JOY,D,BAGARRA,N/A,LUNA,Cuyapo National High School,61%,Qualified
 GABRIEL,AQUINO,CANSINO,N/A,DISTRICT IV,Cuyapo National High School,61%,Qualified
 DARLINE LUISE ,DAGDAGAN,CORPUZ,N/A,LOOB,Cuyapo National High School,61%,Qualified
@@ -196,8 +197,8 @@ RICH ANNE ,RAMOS,NARTATES ,N/A,LUNA,Cuyapo National High School,61%,Qualified
  STRAWBERRY ROSE ,CAPAYAS,ISLA,N/A,PAITAN SUR,Dr. Ramon De Santos National High School,61%,Qualified
  RHYCEL ANN ,N,MOISES,N/A,MATINDEG,Dr. Ramon De Santos National High School,61%,Qualified
  EARLE,TALAVERA,MARTINEZ,N/A,BIBICLAT,Dr. Ramon De Santos National High School,61%,Qualified
- BENCH,REGALARIO,YANGAT,N/A,SABIT ,Dr. Ramon De Santos National High School,61%,Qualified
- MILIZENT,P.,YSMAEL,N/A,RIZAL,Dr. Ramon De Santos National High School,61%,Qualified
+ MARY MARGARETTE,C,VIRAY,N/A,CABILEO,Dr. Ramon De Santos National High School,61%,Qualified
+ SHEILA GRACE,PASCUAL,YARES,N/A,SIMIMBAAN,Dr. Ramon De Santos National High School,61%,Qualified
 VANESSA,MANDOL,ABELLAR,N/A,MALINENG,Cuyapo National High School,60%,Qualified
 JUSTIN CHARLES,,CABIDA,N/A,BANTUG,Cuyapo National High School,60%,Qualified
 JARED ISRAEL,MANZANO,CARGANILLA,N/A,VILLAFLORES,Cuyapo National High School,60%,Qualified
@@ -225,20 +226,19 @@ YUEN,ORDINARIO,AQUINO,N/A,DISTRICT 8,Cuyapo National High School,60%,Qualified
  DANIELLE JOYCE,TORRES,DAMIAN,N/A,SABIT,Dr. Ramon De Santos National High School,60%,Qualified
  ADRIAN BRENT,DELA CRUZ,DANO,N/A,NAGCURALAN,Dr. Ramon De Santos National High School,60%,Qualified
  EZEKIEL EUN,SALVADOR,DE CASTRO,N/A,SAN ANTONIO,Dr. Ramon De Santos National High School,60%,Qualified
- ANDRE,M.,REVECHE,N/A,NAGMISAHAN,Dr. Ramon De Santos National High School,60%,Qualified
  ANTONIO,SORIANO,REYES,JR,NAGMISAHAN,Dr. Ramon De Santos National High School,60%,Qualified
  PRINCESS  ELIZA,C,ALILI,N/A,MATINDEG,Dr. Ramon De Santos National High School,60%,Qualified
  JUSTINE MAE ,AGUILAR,ANTONIO,N/A,BIBICLAT,Dr. Ramon De Santos National High School,60%,Qualified
  RENIEL,L.,DOLOR,N/A,BIBICLAT,Dr. Ramon De Santos National High School,60%,Qualified
  PRINCES JAMAIKA,CANTERE,DRACULAN,N/A,COLUMBITIN,Dr. Ramon De Santos National High School,60%,Qualified
  MARK JAMES,M,GINES,N/A,SALAGUSOG,Dr. Ramon De Santos National High School,60%,Qualified
- JEMUELA,G,MIGUERL,N/A,COLUMBITIN,Dr. Ramon De Santos National High School,60%,Qualified
+ JEMUEL,G,MIGUEL,N/A,COLUMBITIN,Dr. Ramon De Santos National High School,60%,Qualified
  WARREN PAUL,DUCABO,MUNDA,N/A,BAMBANABA,Dr. Ramon De Santos National High School,60%,Qualified
  GENALYN JANE,PASCUA,MANZANO,N/A,BURGOS,Dr. Ramon De Santos National High School,60%,Qualified
  MARON,MANZANO,VELASCO,N/A,SANTA CLARA,Dr. Ramon De Santos National High School,60%,Qualified
- JEREMY,V.,VIRAY,N/A,SABIT ,Dr. Ramon De Santos National High School,60%,Qualified
+ NEIL ZHYRA,L,ZOBERIAGA,N/A,SAN ANTONIO,Dr. Ramon De Santos National High School,60%,Qualified
+ MILIZENT,P.,YSMAEL,N/A,RIZAL,Dr. Ramon De Santos National High School,59%,Qualified
 MA. SUZETTE,TIGOLO,ABRAHAM,N/A,DISTRICT II,Cuyapo National High School,59%,Qualified
-RONA MAE,RICAFFRENTE,APOLONIO,N/A,SAN JOSE,Cuyapo National High School,59%,Qualified
 YEZA,SALIBIO,BALANGUE,N/A,LATAP,Cuyapo National High School,59%,Qualified
 JOHN GABRIEL,SONGCOYA,BALCORTA,N/A,DISTRICT V,Cuyapo National High School,59%,Qualified
 MARRY GRACE,DE LEON,CABAYA,N/A,UNGAB,Cuyapo National High School,59%,Qualified
@@ -285,8 +285,8 @@ HANNAH BELLE,GRAGASIN,SOLIVEN ,N/A,LATAP,Cuyapo National High School,59%,Qualifi
  AIUMMIE,V.,MANUEL,N/A,BURGOS,Dr. Ramon De Santos National High School,59%,Qualified
  REA,PRADO,VICENTE,N/A,BUED,Dr. Ramon De Santos National High School,59%,Qualified
  NICOLE,LABARO,URDAS,N/A,BALOY,Dr. Ramon De Santos National High School,59%,Qualified
- MARY MARGARETTE,C,VIRAY,N/A,CABILEO,Dr. Ramon De Santos National High School,59%,Qualified
  MHEL,UMIPIG,TABANGCAY,N/A,SANTA CLARA,Dr. Ramon De Santos National High School,59%,Qualified
+JENELLA,GALLEON,ANGELES,N/A,DISTRICT VIII,Cuyapo National High School,59%,Qualified
 ALDRIANE JAY,G,BAGUIO,N/A,DISTRICT II,Cuyapo National High School,58%,Qualified
 MIKAELA FIONA,ASIROT,CACAY,N/A,CALANCUASAN SUR,Cuyapo National High School,58%,Qualified
 ROEL ,T,DE ASIS,JR,SAN JOSE,Cuyapo National High School,58%,Qualified
@@ -322,63 +322,62 @@ CHARLES ADAN,CODERIAS ,SORAINO ,N/A,SAN JOSE,Cuyapo National High School,58%,Qua
  LEILANIE ANGELA FAYE,AGUILA,DUATIN,N/A,BURGOS,Dr. Ramon De Santos National High School,58%,Qualified
  CHRISTIAN KYLE,ASIBUTSE,DE GRACIA,N/A,PAITAN SUR,Dr. Ramon De Santos National High School,58%,Qualified
  ALDRICH JOVIT,VERGARA,DE LEON,N/A,BIBICLAT,Dr. Ramon De Santos National High School,58%,Qualified
- CARYL MAE,ANTONIO,VITUG,N/A,SALAGUSOG,Dr. Ramon De Santos National High School,58%,Qualified
-RAY VINCENT,TOLEDO,AGPOON,N/A,DISTRICT I,Cuyapo National High School,57%,For Verification
-CLAIRE IVY,DUMUWAL,AQUINO,N/A,CALANCUASAN NORTE,Cuyapo National High School,57%,For Verification
-LEURRAINE ALEXIE,P,BALCORTA,N/A,BULALA,Cuyapo National High School,57%,For Verification
-PAULINE JOYCE,B,CARITATIVO,N/A,TUTULOY,Cuyapo National High School,57%,For Verification
-ELIZABETH,MARTIN,CARREON,N/A,BULALA,Cuyapo National High School,57%,For Verification
-ZACCHA DANIELLE ,SALVADOR,CORPUZ,N/A,DISTRICT VI,Cuyapo National High School,57%,For Verification
-JENA JANE,RUIZ,CUDAL,N/A,PIGLISAN,Cuyapo National High School,57%,For Verification
-MARK RENZ,CALIS,CRUZ,N/A,TUTULOY,Cuyapo National High School,57%,For Verification
-ERICA SHANE,LUCERO,DE ALBA,N/A,PIGLISAN,Cuyapo National High School,57%,For Verification
-JERBIE ANGELLE ,STO DOMINGO,GALOPE,N/A,DISTRICT VI,Cuyapo National High School,57%,For Verification
-ALFONSO EMMANUEL,ORALIZA,LABIANO,N/A,VILLAFLORES,Cuyapo National High School,57%,For Verification
-NIKKA ,DELA PEÑA,JAVIER ,N/A,MALINENG,Cuyapo National High School,57%,For Verification
-JADE PRINCESS,TOMAS,MATIAS,N/A,CALANCUASAN NORTE,Cuyapo National High School,57%,For Verification
-DARWIN,DIVINA,PADILLA,N/A,SDISTRICT II,Cuyapo National High School,57%,For Verification
-LOUIE JAY,SERANIO,PAGADUAN,N/A,BENTIGAN,Cuyapo National High School,57%,For Verification
-JOENA MAE ,MAÑALAC,RAFIL,N/A,PIGLISAN,Cuyapo National High School,57%,For Verification
-MARC AXEL,D,REYES,N/A,MALBEG,Cuyapo National High School,57%,For Verification
-EJAY BOY,C,RIGOR,N/A,UNGAB,Cuyapo National High School,57%,For Verification
-LEYNNIE FLOR ,PASCUAL,SANTIAGO,N/A,DISTRICT IV,Cuyapo National High School,57%,For Verification
-BELLE TRIXIE,REVILLE,TAGALAN,N/A,LATAP,Cuyapo National High School,57%,For Verification
-JOHN MICHAEL,L,TARALA,N/A,BENTIGAN,Cuyapo National High School,57%,For Verification
-MA. LOUISSE ALEXIS ,APOLOGISTA,TECSON,N/A,BULALA,Cuyapo National High School,57%,For Verification
-JOHN DERICK ,ACUÑA,TOLEDO,N/A,DISTRICT I,Cuyapo National High School,57%,For Verification
-ERLAINE ,CARANYAGAN,TOMAS,N/A,DISTRICT IV,Cuyapo National High School,57%,For Verification
-CEDRIC JAN,ACOSTA,VELASCO,N/A,LATAP,Cuyapo National High School,57%,For Verification
-GRINGO,C,AMBROCIO,N/A,LUNA,Cuyapo National High School,57%,For Verification
-MARILYN,ANCHETA,BUNDALIAN,N/A,VILLAFLORES,Cuyapo National High School,57%,For Verification
-JELAIN ARLEA GABRIELLE,TRANQUILINO,CABANES,N/A,BULALA,Cuyapo National High School,57%,For Verification
-MARY JOY,GUILLERMO,DE NIEVA,N/A,DISTRICT 6,Cuyapo National High School,57%,For Verification
-SHARLEEN,VENDIOLA,DELOS REYES,N/A,CALANCUASAN SUR,Cuyapo National High School,57%,For Verification
-CHESKA MARIE,BANGGAO,ERESE,N/A,SAN JOSE,Cuyapo National High School,57%,For Verification
-CHIME ,RAMOS,LAMONTE ,N/A,MALINENG,Cuyapo National High School,57%,For Verification
-ALEXIS ,C.,LAZARO,N/A,DIST VI.,Cuyapo National High School,57%,For Verification
-JOY ANNE ,T.,LEBANTINO,N/A,UNGAB,Cuyapo National High School,57%,For Verification
-SANFRED JOHN,EVANGELISTA,NONO,N/A,LOOB,Cuyapo National High School,57%,For Verification
-MADELINE ,DAYAG,SOBREDO,N/A,CALANCUAN SUR,Cuyapo National High School,57%,For Verification
- DARYLENE MAE,BAUTISTA,DUCUSIN,N/A,SABIT,Dr. Ramon De Santos National High School,57%,For Verification
- SARAH ASHLEY,DAYAG,ESCOBAR,N/A,SAN ANTONIO,Dr. Ramon De Santos National High School,57%,For Verification
- NHOEL JOHN,C,LUIS ,N/A,CACAPASAN,Dr. Ramon De Santos National High School,57%,For Verification
- NORBENIA AYANNA,CRUZ,SALVADOR ,N/A,BURGOS,Dr. Ramon De Santos National High School,57%,For Verification
- GIELLEANE ,,RABARA,N/A,STA.CLARA,Dr. Ramon De Santos National High School,57%,For Verification
- PRINCE DAVID ART,MANZANO,TOLEDO,N/A,CABILEO,Dr. Ramon De Santos National High School,57%,For Verification
- CHRISTIAN,SUMALBAG,ABEDOZA,N/A,BURGOS,Dr. Ramon De Santos National High School,57%,For Verification
- CLARENCE,QUINTO,ABELLO,N/A,PAITAN NORTE,Dr. Ramon De Santos National High School,57%,For Verification
- GWEN,C.,ALSISTO,N/A,PAITAN NORTE,Dr. Ramon De Santos National High School,57%,For Verification
- SOPHIA KIEN,P,ANTOLIN,N/A,SALAGUSOG,Dr. Ramon De Santos National High School,57%,For Verification
- JHAYDEE,PERALTA,CABANTING,N/A,CABILEO,Dr. Ramon De Santos National High School,57%,For Verification
- DAN MICHAEL,L,DIAZ,N/A,SAN ANTONIO,Dr. Ramon De Santos National High School,57%,For Verification
- RAYVEN,A,DIEGO,N/A,BALOY,Dr. Ramon De Santos National High School,57%,For Verification
- ANGEL DAWN,ABAD,EUZALA,N/A,SALAGUSOG,Dr. Ramon De Santos National High School,57%,For Verification
- TRIXCY ANNE ,A,FERNANDEZ,N/A,NAGCURALAN,Dr. Ramon De Santos National High School,57%,For Verification
- EDWARD ALLEN ,C,GARCIA,N/A,SAN JUAN,Dr. Ramon De Santos National High School,57%,For Verification
- RHOJ JENEIL,ABON,MANANTAN,N/A,SALAGUSOG,Dr. Ramon De Santos National High School,57%,For Verification
- JAY ANN,MARFIL,MANLANSING,N/A,SANTA CLARA,Dr. Ramon De Santos National High School,57%,For Verification
- JHAMILA BENCATHLEEN,P,MANZANO,N/A,BURGOS,Dr. Ramon De Santos National High School,57%,For Verification
- LADY JUSTINE ,G,SOLOMON,N/A,SAN ANTONIO,Dr. Ramon De Santos National High School,57%,For Verification
+ RHEA JANE,CASTILLO,RAFAEL,N/A,SAN ANTONIO,Dr. Ramon De Santos National High School,58%,Qualified
+ HANNAH JANE,UMIPIG,YSMAEL,N/A,BURGOS,Dr. Ramon De Santos National High School,58%,Qualified
+RAY VINCENT,TOLEDO,AGPOON,N/A,DISTRICT I,Cuyapo National High School,57%,Not Qualified
+LEURRAINE ALEXIE,P,BALCORTA,N/A,BULALA,Cuyapo National High School,57%,Not Qualified
+PAULINE JOYCE,B,CARITATIVO,N/A,TUTULOY,Cuyapo National High School,58%,Qualified
+ELIZABETH,MARTIN,CARREON,N/A,BULALA,Cuyapo National High School,57%,Not Qualified
+ZACCHA DANIELLE ,SALVADOR,CORPUZ,N/A,DISTRICT VI,Cuyapo National High School,58%,Qualified
+JENA JANE,RUIZ,CUDAL,N/A,PIGLISAN,Cuyapo National High School,58%,Qualified
+MARK RENZ,CALIS,CRUZ,N/A,TUTULOY,Cuyapo National High School,57%,Not Qualified
+ERICA SHANE,LUCERO,DE ALBA,N/A,PIGLISAN,Cuyapo National High School,57%,Not Qualified
+JERBIE ANGELLE ,STO DOMINGO,GALOPE,N/A,DISTRICT VI,Cuyapo National High School,58%,Qualified
+ALFONSO EMMANUEL,ORALIZA,LABIANO,N/A,VILLAFLORES,Cuyapo National High School,57%,Not Qualified
+NIKKA ,DELA PEÑA,JAVIER ,N/A,MALINENG,Cuyapo National High School,57%,Not Qualified
+JADE PRINCESS,TOMAS,MATIAS,N/A,CALANCUASAN NORTE,Cuyapo National High School,57%,Not Qualified
+DARWIN,DIVINA,PADILLA,N/A,SDISTRICT II,Cuyapo National High School,57%,Not Qualified
+LOUIE JAY,SERANIO,PAGADUAN,N/A,BENTIGAN,Cuyapo National High School,58%,Qualified
+JOENA MAE ,MAÑALAC,RAFIL,N/A,PIGLISAN,Cuyapo National High School,57%,Not Qualified
+MARC AXEL,D,REYES,N/A,MALBEG,Cuyapo National High School,57%,Not Qualified
+EJAY BOY,C,RIGOR,N/A,UNGAB,Cuyapo National High School,57%,Not Qualified
+LEYNNIE FLOR ,PASCUAL,SANTIAGO,N/A,DISTRICT IV,Cuyapo National High School,58%,Qualified
+BELLE TRIXIE,REVILLE,TAGALAN,N/A,LATAP,Cuyapo National High School,58%,Qualified
+JOHN MICHAEL,L,TARALA,N/A,BENTIGAN,Cuyapo National High School,57%,Not Qualified
+MA. LOUISSE ALEXIS ,APOLOGISTA,TECSON,N/A,BULALA,Cuyapo National High School,58%,Qualified
+JOHN DERICK ,ACUÑA,TOLEDO,N/A,DISTRICT I,Cuyapo National High School,57%,Not Qualified
+ERLAINE ,CARANYAGAN,TOMAS,N/A,DISTRICT IV,Cuyapo National High School,58%,Qualified
+CEDRIC JAN,ACOSTA,VELASCO,N/A,LATAP,Cuyapo National High School,58%,Qualified
+GRINGO,C,AMBROCIO,N/A,LUNA,Cuyapo National High School,57%,Not Qualified
+MARILYN,ANCHETA,BUNDALIAN,N/A,VILLAFLORES,Cuyapo National High School,57%,Not Qualified
+JELAIN ARLEA GABRIELLE,TRANQUILINO,CABANES,N/A,BULALA,Cuyapo National High School,58%,Qualified
+MARY JOY,GUILLERMO,DE NIEVA,N/A,DISTRICT 6,Cuyapo National High School,58%,Qualified
+SHARLEEN,VENDIOLA,DELOS REYES,N/A,CALANCUASAN SUR,Cuyapo National High School,58%,Qualified
+CHESKA MARIE,BANGGAO,ERESE,N/A,SAN JOSE,Cuyapo National High School,58%,Qualified
+CHIME ,RAMOS,LAMONTE ,N/A,MALINENG,Cuyapo National High School,57%,Not Qualified
+ALEXIS ,C.,LAZARO,N/A,DIST VI.,Cuyapo National High School,58%,Qualified
+JOY ANNE ,T.,LEBANTINO,N/A,UNGAB,Cuyapo National High School,57%,Not Qualified
+SANFRED JOHN,EVANGELISTA,NONO,N/A,LOOB,Cuyapo National High School,57%,Not Qualified
+MADELINE ,DAYAG,SOBREDO,N/A,CALANCUAN SUR,Cuyapo National High School,57%,Not Qualified
+ DARYLENE MAE,BAUTISTA,DUCUSIN,N/A,SABIT,Dr. Ramon De Santos National High School,58%,Qualified
+ SARAH ASHLEY,DAYAG,ESCOBAR,N/A,SAN ANTONIO,Dr. Ramon De Santos National High School,57%,Not Qualified
+ NHOEL JOHN,C,LUIS ,N/A,CACAPASAN,Dr. Ramon De Santos National High School,58%,Qualified
+ NORBENIA AYANNA,CRUZ,SALVADOR ,N/A,BURGOS,Dr. Ramon De Santos National High School,58%,Qualified
+ GIELLEANE ,,RABARA,N/A,STA.CLARA,Dr. Ramon De Santos National High School,57%,Not Qualified
+ PRINCE DAVID ART,MANZANO,TOLEDO,N/A,CABILEO,Dr. Ramon De Santos National High School,57%,Not Qualified
+ CHRISTIAN,SUMALBAG,ABEDOZA,N/A,BURGOS,Dr. Ramon De Santos National High School,57%,Not Qualified
+ CLARENCE,QUINTO,ABELLO,N/A,PAITAN NORTE,Dr. Ramon De Santos National High School,58%,Qualified
+ GWEN,C.,ALSISTO,N/A,PAITAN NORTE,Dr. Ramon De Santos National High School,57%,Not Qualified
+ SOPHIA KIEN,P,ANTOLIN,N/A,SALAGUSOG,Dr. Ramon De Santos National High School,58%,Qualified
+ JHAYDEE,PERALTA,CABANTING,N/A,CABILEO,Dr. Ramon De Santos National High School,58%,Qualified
+ DAN MICHAEL,L,DIAZ,N/A,SAN ANTONIO,Dr. Ramon De Santos National High School,57%,Not Qualified
+ ANGEL DAWN,ABAD,EUZALA,N/A,SALAGUSOG,Dr. Ramon De Santos National High School,58%,Qualified
+ TRIXCY ANNE ,A,FERNANDEZ,N/A,NAGCURALAN,Dr. Ramon De Santos National High School,57%,Not Qualified
+ EDWARD ALLEN ,C,GARCIA,N/A,SAN JUAN,Dr. Ramon De Santos National High School,57%,Not Qualified
+ RHOJ JENEIL,ABON,MANANTAN,N/A,SALAGUSOG,Dr. Ramon De Santos National High School,57%,Not Qualified
+ JAY ANN,MARFIL,MANLANSING,N/A,SANTA CLARA,Dr. Ramon De Santos National High School,58%,Qualified
+ JHAMILA BENCATHLEEN,P,MANZANO,N/A,BURGOS,Dr. Ramon De Santos National High School,58%,Qualified
+ LADY JUSTINE ,G,SOLOMON,N/A,SAN ANTONIO,Dr. Ramon De Santos National High School,57%,Not Qualified
 CARLOS JOSE,BALANCIO,ABICO,N/A,MALBEG,Cuyapo National High School,56%,Not Qualified
 ERIANE JOY,AQUINO,ALBARIDA,N/A,LUNA,Cuyapo National High School,56%,Not Qualified
 ERIKA,M,APOLONIO,N/A,SAN JOSE,Cuyapo National High School,56%,Not Qualified
@@ -493,7 +492,7 @@ TRISHA MAE,DAGDAG,SERNA,N/A,BENTIGAN,Cuyapo National High School,55%,Not Qualifi
  ELSIE MARIE,D,VILLAROS,N/A,NAGMISAHAN,Dr. Ramon De Santos National High School,55%,Not Qualified
 DESIREE,CACHUELA,ALCANTARA,N/A,LUNA,Cuyapo National High School,54%,Not Qualified
 DEONICE,DOLENDO,ANGELLANO,N/A,DISTRICT I,Cuyapo National High School,54%,Not Qualified
-ANGELA,G,ANTOLIN,N/A,TUTULOY,Cuyapo National High School,54%,Not Qualified
+ANGELA,G,ANTOLIN,N/A,TUTULOY,Cuyapo National High School,58%,Qualified
 VENUS,ABOBO,COSME,N/A,LUNA,Cuyapo National High School,54%,Not Qualified
 RONALYN,CARPIO,DELA ROSA,N/A,MALINENG,Cuyapo National High School,54%,Not Qualified
 CARLITO,GARBIN,FELIX,JR,RIZAL,Cuyapo National High School,54%,Not Qualified
@@ -552,8 +551,8 @@ ERIKA,SUMANGIL,NAVAL,N/A,SABIT,Cuyapo National High School,54%,Not Qualified
  JANVERT,M.,RUFINTA,N/A,BIBICLAT,Dr. Ramon De Santos National High School,54%,Not Qualified
  HANNAH ANGEL ,P,SOBERANO,N/A,PAITAN SUR,Dr. Ramon De Santos National High School,54%,Not Qualified
  TIMOTHY JOHN ,D,TABIOS,N/A,SABIT ,Dr. Ramon De Santos National High School,54%,Not Qualified
+ SHYRILLE,PASCUAL,YARES,N/A,SIMIMBAAN,Dr. Ramon De Santos National High School,53%,Not Qualified
 CARLOS JAYCEE,BERNARDO,AGUILAR,N/A,DISTRICT VIII,Cuyapo National High School,53%,Not Qualified
-KATE AREN,DE GRACIA,AMBROCIO,N/A,BENTIGAN,Cuyapo National High School,53%,Not Qualified
 LANCE ANDREI,P,BALCORTA,N/A,BULALA,Cuyapo National High School,53%,Not Qualified
 SYMOR,PALMA,DE GRACIA,N/A,PUGO,Cuyapo National High School,53%,Not Qualified
 PRINCESS IRISH,L,DELA TORRE,N/A,PUGO,Cuyapo National High School,53%,Not Qualified
@@ -609,8 +608,8 @@ CARL JAMES,PEREZ,ESPIRITU,N/A,DISTRICT 2,Cuyapo National High School,53%,Not Qua
  DAVE JONATHAN,DAGDAG,VILLALUZ,N/A,BIBICLAT,Dr. Ramon De Santos National High School,53%,Not Qualified
  GLISA,R.,RUBIS,N/A,BIBICLAT,Dr. Ramon De Santos National High School,53%,Not Qualified
  KARL,G.,YABES,N/A,RIZAL,Dr. Ramon De Santos National High School,53%,Not Qualified
- SHEILA GRACE,PASCUAL,YARES,N/A,SIMIMBAAN,Dr. Ramon De Santos National High School,53%,Not Qualified
  JANE MAGNOLIA,M,SORIANO,N/A,CABILEO,Dr. Ramon De Santos National High School,53%,Not Qualified
+RONA MAE,RICAFFRENTE,APOLONIO,N/A,SAN JOSE,Cuyapo National High School,52%,Not Qualified
 LORIE JANE,G,ABARCA,N/A,BULALA,Cuyapo National High School,52%,Not Qualified
 SHEAN JACK HERNE,EBION,AGCAMARAN,N/A,BENTIGAN,Cuyapo National High School,52%,Not Qualified
 RANYA AYESSA,T,AGPOON,N/A,DISTRICT I,Cuyapo National High School,52%,Not Qualified
@@ -684,6 +683,7 @@ HARRIE,A,MANAOIS,N/A,PAITAN NORTE,Dr. Ramon De Santos National High School,52%,N
  JAY-AN,PARASDAS,VELASCO,N/A,SABIT ,Dr. Ramon De Santos National High School,52%,Not Qualified
  DEE-JAY,L,URDAS,N/A,BALOY,Dr. Ramon De Santos National High School,52%,Not Qualified
  JAN JACOB,P,VALDEZ,N/A,CACAPASAN,Dr. Ramon De Santos National High School,52%,Not Qualified
+ RAYVEN,A,DIEGO,N/A,BALOY,Dr. Ramon De Santos National High School,51%,Not Qualified
 PRINCESS AHCE,V,AGBAYANI,N/A,MAYCABAN,Cuyapo National High School,51%,Not Qualified
 DONNA RICA,BUENO,AGPALO,N/A,DISTRICT I,Cuyapo National High School,51%,Not Qualified
 JOSUA ANDRO,DELA CRUZ,AGUSTIN,N/A,DISTRICT VI,Cuyapo National High School,51%,Not Qualified
@@ -806,7 +806,6 @@ MERLITZ,MIRANDA,SINOHIN,N/A,DIST. V,Cuyapo National High School,50%,Not Qualifie
  JOANA,ROSARIO,PROFUGO,N/A,SAN ANTONIO,Dr. Ramon De Santos National High School,50%,Not Qualified
  MA. ELAIZA,T.,RAFAEL,N/A,TAGTAGUMBAO,Dr. Ramon De Santos National High School,50%,Not Qualified
  MARK ALLEN,DASALLA,RAFAEL,N/A,PAITAN NORTE,Dr. Ramon De Santos National High School,50%,Not Qualified
- RHEA JANE,CASTILLO,RAFAEL,N/A,SAN ANTONIO,Dr. Ramon De Santos National High School,50%,Not Qualified
  JOHN CARLO ,,ALIADO,N/A,SAN ANTONIO,Dr. Ramon De Santos National High School,50%,Not Qualified
  MERYL GRACE,D,ANGEL,N/A,BONIFACIO,Dr. Ramon De Santos National High School,50%,Not Qualified
  MARISSA,L,ANTOLIN,N/A,BURGOS,Dr. Ramon De Santos National High School,50%,Not Qualified
@@ -823,6 +822,7 @@ MERLITZ,MIRANDA,SINOHIN,N/A,DIST. V,Cuyapo National High School,50%,Not Qualifie
  JUVAN,CAÑESO,VERUECO,N/A,SANTA CLARA,Dr. Ramon De Santos National High School,50%,Not Qualified
  LORENZO,PERALTA,RUBENECIA,N/A,PAITAN NORTE,Dr. Ramon De Santos National High School,50%,Not Qualified
  STEPHANIE JADE,ACOSTA,CASTRO,N/A,SALAGUSOG,Dr. Ramon De Santos National High School,50%,Not Qualified
+CLAIRE IVY,DUMUWAL,AQUINO,N/A,CALANCUASAN NORTE,Cuyapo National High School,49%,Not Qualified
 JUNEL,T,ALBAO,N/A,CALANCUASAN SUR,Cuyapo National High School,49%,Not Qualified
 PRINCES AMIRA,G,AMBROCIO,N/A,BENTIGAN,Cuyapo National High School,49%,Not Qualified
 DYURIZ,RAFIL,DELA PEÑA ,N/A,PIGLISAN,Cuyapo National High School,49%,Not Qualified
@@ -875,7 +875,7 @@ JERMILL,SACRAMENTO,MANZANO JERMILL SACRAMENTO,N/A,PAITAN NORTE,Dr. Ramon De Sant
  JOSHUA,MARQUEZ,ULEP,N/A,NAGCURALAN,Dr. Ramon De Santos National High School,49%,Not Qualified
  FREDAMIA,BOLASOC,VALLEJO,N/A,SAN ANTONIO,Dr. Ramon De Santos National High School,49%,Not Qualified
  SETH EMMANUEL,D,RIVERA,N/A,SABIT ,Dr. Ramon De Santos National High School,49%,Not Qualified
- NEIL ZHYRA,L,ZOBERIAGA,N/A,SAN ANTONIO,Dr. Ramon De Santos National High School,49%,Not Qualified
+ JOHN MARK,BRIONES,SUYAO,N/A,BURGOS,Dr. Ramon De Santos National High School,48%,Not Qualified
 LOVELY JOY,S,ABALOS,N/A,MALINENG,Cuyapo National High School,48%,Not Qualified
 DENVER,SAMSON,ABELLA,N/A,BENTIGAN,Cuyapo National High School,48%,Not Qualified
 ANGELA,S,ALBITO,N/A,MALINENG,Cuyapo National High School,48%,Not Qualified
@@ -938,7 +938,6 @@ ELIMAR,DELA PENA ,SIBAYAN,N/A,PIGLISAN,Cuyapo National High School,48%,Not Quali
  MIKE JOHN KITZ,D,ROQUE,N/A,BALOY,Dr. Ramon De Santos National High School,48%,Not Qualified
  ABEGAIEL,DOMINGO,SOLIVEN,N/A,SALAGUSOG,Dr. Ramon De Santos National High School,48%,Not Qualified
  NICOLE ,B.,SUETOS,N/A,SAN ANTONIO,Dr. Ramon De Santos National High School,48%,Not Qualified
- PRECIOUS SAPPHIRE,DION,SUMALBAG,N/A,BONIFACIO,Dr. Ramon De Santos National High School,48%,Not Qualified
 ARLENE,JULIANO,ABELLA,N/A,BENTIGAN,Cuyapo National High School,47%,Not Qualified
 JAY MARK,D,ADOLFO,N/A,DISTRICT II,Cuyapo National High School,47%,Not Qualified
 MELLE ALYN,D,AGUSTIN,N/A,BENTIGAN,Cuyapo National High School,47%,Not Qualified
@@ -1003,6 +1002,8 @@ AIRA MAE ,M.,PASION ,N/A,BENTIGAN,Cuyapo National High School,47%,Not Qualified
  KATHERINE,S.,SADABA,N/A,SAN ANTONIO,Dr. Ramon De Santos National High School,47%,Not Qualified
  ZANDRO,CALIBOSO,SORIANO,N/A,PAITAN SUR,Dr. Ramon De Santos National High School,47%,Not Qualified
  MIKAELLA ,D.,SUMALBAG,N/A,BONIFACIO,Dr. Ramon De Santos National High School,47%,Not Qualified
+PRINCESS,CACHUELA,ANTONIO,N/A,VILLAFLORES,Cuyapo National High School,46%,Not Qualified
+ JEREMY,V.,VIRAY,N/A,SABIT ,Dr. Ramon De Santos National High School,46%,Not Qualified
 JOHN CHRISTIAN,V,AGUSTIN,N/A,BENTIGAN,Cuyapo National High School,46%,Not Qualified
 ANA MARIA,AGUILAR,ANASTACIO,N/A,MALINENG,Cuyapo National High School,46%,Not Qualified
 MANUEL,O,CUARESMA,III,UNGAB,Cuyapo National High School,46%,Not Qualified
@@ -1126,7 +1127,6 @@ MAUREEN,NUEZCA,SINGO,N/A,DIST VIII,Cuyapo National High School,45%,Not Qualified
  PRINCESS DIANA,AGUSTIN,SANTOS,N/A,SAN ANTONIO,Dr. Ramon De Santos National High School,45%,Not Qualified
  JASMINE,ABALOS,SANTUA,N/A,BALOY,Dr. Ramon De Santos National High School,45%,Not Qualified
  DANAYAH MAY,MAQUILING,RAMOS,N/A,SIMIMBAAN,Dr. Ramon De Santos National High School,45%,Not Qualified
- ANDRE,M.,REVECHE,N/A,PAITAN NORTE,Dr. Ramon De Santos National High School,45%,Not Qualified
  CARL ACCEL,BALMORES,RINGOR,N/A,BONIFACIO,Dr. Ramon De Santos National High School,45%,Not Qualified
  KATHLYN JEAN,GAMIZ,RAFAL,N/A,NAGCURALAN,Dr. Ramon De Santos National High School,45%,Not Qualified
  CINDY,A.,TODENO,N/A,STA.CRUZ,Dr. Ramon De Santos National High School,45%,Not Qualified
@@ -1257,6 +1257,7 @@ ALJON,U,CESARIO ,N/A,STA. CLARA,Dr. Ramon De Santos National High School,43%,Not
  VINCENT ANDREI,ANDREI,RIVERA,N/A,PAITAN NORTE,Dr. Ramon De Santos National High School,43%,Not Qualified
  VICTORINO,L,ROSINA,JR,PAITAN NORTE,Dr. Ramon De Santos National High School,43%,Not Qualified
  DAISYLYN,U.,SALINGBAY,N/A,COLUMBITIN,Dr. Ramon De Santos National High School,43%,Not Qualified
+ BENCH,REGALARIO,YANGAT,N/A,SABIT ,Dr. Ramon De Santos National High School,42%,Not Qualified
 JULIECA MAE ,GINES,BAGUIO,N/A,DISTRICT II,Cuyapo National High School,42%,Not Qualified
 MARIALYN,NONO,CABATO,N/A,PUGO,Cuyapo National High School,42%,Not Qualified
 MAXINE,AYSON,CABIDA,N/A,BANTUG,Cuyapo National High School,42%,Not Qualified
@@ -1310,7 +1311,6 @@ CHARLIE,A,ESTEBAN,N/A,LATAP,Cuyapo National High School,42%,Not Qualified
  SABRINA JANE,V.,RONATO,N/A,NAGMISAHAN,Dr. Ramon De Santos National High School,42%,Not Qualified
  MARY ANGEL,REGALARIO,YANGAT,N/A,SABIT ,Dr. Ramon De Santos National High School,42%,Not Qualified
  APRIL JOY,C,ZULUETA,N/A,SAN ANTONIO,Dr. Ramon De Santos National High School,42%,Not Qualified
-JENELLA,GALLEON,ANGELES,N/A,DISTRICT VIII,Cuyapo National High School,41%,Not Qualified
 ANGELA,K,CAPATI,N/A,LATAP,Cuyapo National High School,41%,Not Qualified
 ALDREN,M,CUNANAN,N/A,BULALA,Cuyapo National High School,41%,Not Qualified
 EARL BRYAN ,PENEQUITO,CRUZ,N/A,TUTULOY,Cuyapo National High School,41%,Not Qualified
@@ -1419,6 +1419,7 @@ PRINCESS  DELA CRUZ,DELA CRUZ,CERVANTES,N/A,"STA, CRUZ",Dr. Ramon De Santos Nati
  ASHLEY MAE,DIAZ,ROSARIO,N/A,SANTA CRUZ,Dr. Ramon De Santos National High School,40%,Not Qualified
  ALLAN ,MAIQUEZ,SABADO,N/A,PAITAN NORTE,Dr. Ramon De Santos National High School,40%,Not Qualified
  LOVELYN VENCH,CABEBE,SADOGLIO,N/A,CABILEO,Dr. Ramon De Santos National High School,40%,Not Qualified
+ ELLA MARIE,ESTANDER,WALICAN,N/A,SABIT ,Dr. Ramon De Santos National High School,39%,Not Qualified
 JERICO,CACHUELA,ACOBE,N/A,CALANCUASAN SUR,Cuyapo National High School,39%,Not Qualified
 IVAN RHAE ,BERAME,CABANTING,N/A,UNGAB,Cuyapo National High School,39%,Not Qualified
 JOHNDER,D,CORPUZ,N/A,TUTULOY,Cuyapo National High School,39%,Not Qualified
@@ -1472,7 +1473,6 @@ RHEA JANE ,A.,NICOLAS,N/A,TUTULOY,Cuyapo National High School,39%,Not Qualified
  REGINE KAYE,ULEP,ULEP,N/A,NAGCURALAN,Dr. Ramon De Santos National High School,39%,Not Qualified
  HAZEL,AGPALO,SABANAL,N/A,BALOY,Dr. Ramon De Santos National High School,39%,Not Qualified
  MARK ANGEL,REGALARIO,YANGAT,N/A,SABIT ,Dr. Ramon De Santos National High School,39%,Not Qualified
- HANNAH JANE,UMIPIG,YSMAEL,N/A,BURGOS,Dr. Ramon De Santos National High School,39%,Not Qualified
 CATHY,DUMANDAN,BALANCIO,N/A,DISTRICT I,Cuyapo National High School,38%,Not Qualified
 LORYNNE,AGAD,CANO,N/A,SAN JOSE,Cuyapo National High School,38%,Not Qualified
 SHEKEINAH ,LAGAJINO,DELA CRUZ,N/A,DISTRICT II,Cuyapo National High School,38%,Not Qualified
@@ -1514,7 +1514,6 @@ MARIANE ,BALONG,SEBASTIAN,N/A,BULALA,Cuyapo National High School,38%,Not Qualifi
  NICOLE DIANE,O,MARAÑA,N/A,RIZAL,Dr. Ramon De Santos National High School,38%,Not Qualified
  XYRIE JADE,,PERALTA,N/A,SABIT ,Dr. Ramon De Santos National High School,38%,Not Qualified
  BRIX,AQUINO,ROSINA,N/A,PAITAN NORTE,Dr. Ramon De Santos National High School,38%,Not Qualified
- FRANCES CHELSEA,C,YOUNG,N/A,BURGOS,Dr. Ramon De Santos National High School,38%,Not Qualified
 SAMANTHA JOY,MACABONTOC,ACOSTA,N/A,PUGO,Cuyapo National High School,37%,Not Qualified
 KIMBERLY,BERGONIA,BALOG,N/A,SAN JOSE,Cuyapo National High School,37%,Not Qualified
 DAVID,LENITA,FLORES,N/A,TUTULOY,Cuyapo National High School,37%,Not Qualified
@@ -1722,7 +1721,6 @@ ERIKA,DADO,ARDENA ERIKA DADO,N/A,BALOY,Dr. Ramon De Santos National High School,
  KYLA,BALDIVARONA,FELICITAS,N/A,BONIFACIO,Dr. Ramon De Santos National High School,32%,Not Qualified
  ROCHELA JANE,B,NICOLAS,N/A,BALOY,Dr. Ramon De Santos National High School,32%,Not Qualified
  RHONALYN,B.,NICOLAS,N/A,BALOY,Dr. Ramon De Santos National High School,32%,Not Qualified
- ARZEL KEITH,O,UDANI,N/A,SAN ANTONIO,Dr. Ramon De Santos National High School,32%,Not Qualified
  MILDRED JANE,DELA CROSA,RONQUILLO,N/A,BALOY,Dr. Ramon De Santos National High School,32%,Not Qualified
 IVY,LARON,DELA TORRE,N/A,PUGO,Cuyapo National High School,31%,Not Qualified
 DIVINE GRACE,BICARME,EGAR,N/A,MAYCABAN,Cuyapo National High School,31%,Not Qualified
@@ -1803,6 +1801,7 @@ JONALYN,RAMOS,CALIBOSO,N/A,LUNA,Cuyapo National High School,24%,Not Qualified
  MARICEL,SORAI,CALDERON,N/A,SAN ANTONIO,Dr. Ramon De Santos National High School,24%,Not Qualified
  ANGELA MAE,CLAVERIA,MAYES,N/A,PAITAN SUR,Dr. Ramon De Santos National High School,24%,Not Qualified
 PRECIOUS ,M,MANLAPIG,N/A,BULALA,Cuyapo National High School,23%,Not Qualified
+ ANDRE,M.,REVECHE,N/A,PAITAN NORTE,Dr. Ramon De Santos National High School,22%,Not Qualified
  RANIE,BERMUDEZ,FABIA,N/A,PAITAN SUR,Dr. Ramon De Santos National High School,22%,Not Qualified
 MARK ALLEN,A,AGPALO,N/A,BANTUG,Cuyapo National High School,20%,Not Qualified
 MUHAMMAD,P,AMAIGAO,N/A,DISTRICT 7,Cuyapo National High School,20%,Not Qualified
